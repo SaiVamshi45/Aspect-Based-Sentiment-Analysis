@@ -94,15 +94,4 @@ This project reflects my interest in **Natural Language Processing (NLP)**, part
 
 ---
 
-## 📫 Contact
-
-**Yasaswini Dharmavarapu**  
-📧 [yasaswani.dharmavarapu@gmail.com](mailto:yasaswani.dharmavarapu@gmail.com)  
-🌐 [GitHub Profile](https://github.com/Yassu-24)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
